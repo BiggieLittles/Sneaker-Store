@@ -1,0 +1,42 @@
+
+Ian H
+  7:42 PM
+# Node.js
+node_modules
+npm-debug.log
+yarn-error.log
+# Logs
+logs
+*.log
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+# Coverage directory used by tools like istanbul
+coverage
+# Dependency directories
+bower_components
+# Output of 'npm pack'
+*.tgz
+# dotenv environment variables file
+.env
+# Compiled binary addons (https://nodejs.org/api/addons.html)
+build/Release
+# Optional npm cache directory
+.npm
+# Optional eslint cache
+.eslintcache
+# Optional REPL history
+.node_repl_history
+# VS Code directories
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+# macOS
+.DS_Store
+# Windows
+Thumbs.db
+ehthumbs.db
